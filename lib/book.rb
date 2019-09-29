@@ -9,6 +9,9 @@ class Book
     @title
   end
   
-  def 
+  def author=(author)
+    @author = author
+  end
+  
 end
 
