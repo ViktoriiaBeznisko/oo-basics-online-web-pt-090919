@@ -22,5 +22,6 @@ class Book
     @page_count
   end
   
+  def ganre
 end
 
